@@ -1,0 +1,6 @@
+@AISalesCopilot.API_HostAddress = http://localhost:5193
+
+GET {{AISalesCopilot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
