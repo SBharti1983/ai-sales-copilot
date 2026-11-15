@@ -18,7 +18,7 @@ Developed by **Sikandar Bharti** — Senior Full Stack AI Engineer & Solutions A
 
 ```bash
 # Prerequisites: .NET 9 SDK + Node.js 18+
-git clone https://github.com/YOUR_USERNAME/ai-sales-copilot.git
+git clone https://github.com/SBharti1983/ai-sales-copilot.git
 cd ai-sales-copilot
 ```
 
